@@ -3,6 +3,31 @@ project(CLionProjects C)
 
 set(CMAKE_C_STANDARD 99)
 
+add_executable(CLionProjects main.c)
+add_executable( ex_1 cw_1/1_01.c)
+add_executable( ex_2 cw_1/1_02.c)
+add_executable( ex_3 cw_1/1_03.c)
+add_executable( ex_4 cw_1/1_04.c)
+add_executable( ex_5 cw_1/1_05.c)
+add_executable( ec_6 cw_1/1_06.c)
+add_executable( ex_7 cw_1/1_07.c)
+add_executable( ex_8 cw_1/1_08.c)
+add_executable( ex_9 cw_1/1_09.c)
+
+add_executable( ex_1_1 hw_1/1_11.c)
+add_executable( ex_1_2 hw_1/1_18.c)
+
+add_executable( ex_2_1 cw_2/2_1.c)
+add_executable( ex_2_2 cw_2/2_2.c)
+add_executable( ex_2_3 cw_2/2_3.c)
+add_executable( ec_2_4 cw_2/2_4.c)
+add_executable( ex_2_5 cw_2/2_5.c)
+add_executable( ex_2_6 cw_2/2_6.c)
+add_executable( ex_2_7 cw_2/2_7.c)
+
+add_executable( ex_2_12 hw_2/2_12.c)
+add_executable( ex_2_17 hw_2/2_17v.c)
+
 add_executable( ex_3_1 cw_3/3_1.c)
 add_executable( ex_3_2 cw_3/3_2.c)
 add_executable (ex_3_3a cw_3/3_3a.c)
