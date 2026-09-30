@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="CLionProjects" targetName="ex_2_12" />
+      <config projectName="CLionProjects" targetName="ex_2_2" />
+      <config projectName="CLionProjects" targetName="ex_3_1" />
+      <config projectName="CLionProjects" targetName="ex_1_1" />
+      <config projectName="CLionProjects" targetName="ex_2" />
+      <config projectName="CLionProjects" targetName="ex_4" />
+      <config projectName="CLionProjects" targetName="ex_3_20" />
+      <config projectName="CLionProjects" targetName="ec_6" />
+      <config projectName="CLionProjects" targetName="ex_8" />
+      <config projectName="CLionProjects" targetName="ex_3_7b" />
+      <config projectName="CLionProjects" targetName="ex_2_7" />
+      <config projectName="CLionProjects" targetName="ex_3_3b" />
+      <config projectName="CLionProjects" targetName="ex_2_3" />
+      <config projectName="CLionProjects" targetName="ex_3_2" />
+      <config projectName="CLionProjects" targetName="ec_2_4" />
+      <config projectName="CLionProjects" targetName="ex_2_5" />
+      <config projectName="CLionProjects" targetName="ex_3_4" />
+      <config projectName="CLionProjects" targetName="ex_1_2" />
+      <config projectName="CLionProjects" targetName="ex_2_1" />
+      <config projectName="CLionProjects" targetName="ex_2_17" />
+      <config projectName="CLionProjects" targetName="ex_3" />
+      <config projectName="CLionProjects" targetName="ex_5" />
+      <config projectName="CLionProjects" targetName="ex_1" />
+      <config projectName="CLionProjects" targetName="ex_7" />
+      <config projectName="CLionProjects" targetName="CLionProjects" />
+      <config projectName="CLionProjects" targetName="ex_9" />
+      <config projectName="CLionProjects" targetName="ex_3_7a" />
+      <config projectName="CLionProjects" targetName="ex_3_23act" />
+      <config projectName="CLionProjects" targetName="ex_3_3a" />
+      <config projectName="CLionProjects" targetName="ex_2_6" />
+      <config projectName="CLionProjects" targetName="ex_3_5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e32dd36a-6d8a-4aad-ae50-9431fb2781b1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="uy2jyxrj" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J9F0PJ4XQayMo1bduxlROwSMmV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.1_02.c.executor": "Run",
+    "C/C++ File.1_04.c.executor": "Run",
+    "C/C++ File.1_05.c.executor": "Run",
+    "CMake Application.CLionProjects.executor": "Run",
+    "CMake Application.ec_2_4.executor": "Run",
+    "CMake Application.ec_6.executor": "Run",
+    "CMake Application.ex_1 (1).executor": "Run",
+    "CMake Application.ex_1.executor": "Run",
+    "CMake Application.ex_1_1.executor": "Run",
+    "CMake Application.ex_1_2.executor": "Run",
+    "CMake Application.ex_2 (1).executor": "Run",
+    "CMake Application.ex_2.executor": "Run",
+    "CMake Application.ex_2_1.executor": "Run",
+    "CMake Application.ex_2_12.executor": "Run",
+    "CMake Application.ex_2_17.executor": "Run",
+    "CMake Application.ex_2_2.executor": "Run",
+    "CMake Application.ex_2_3.executor": "Run",
+    "CMake Application.ex_2_5.executor": "Run",
+    "CMake Application.ex_2_6.executor": "Run",
+    "CMake Application.ex_2_7.executor": "Run",
+    "CMake Application.ex_3 (1).executor": "Run",
+    "CMake Application.ex_3.executor": "Run",
+    "CMake Application.ex_3_1.executor": "Run",
+    "CMake Application.ex_3_2.executor": "Run",
+    "CMake Application.ex_3_20.executor": "Run",
+    "CMake Application.ex_3_23.executor": "Run",
+    "CMake Application.ex_3_23act.executor": "Debug",
+    "CMake Application.ex_3_3.executor": "Run",
+    "CMake Application.ex_3_3a.executor": "Run",
+    "CMake Application.ex_3_3b.executor": "Run",
+    "CMake Application.ex_3_4.executor": "Run",
+    "CMake Application.ex_3_5.executor": "Run",
+    "CMake Application.ex_3_6.executor": "Run",
+    "CMake Application.ex_3_7a.executor": "Run",
+    "CMake Application.ex_3_7b.executor": "Run",
+    "CMake Application.ex_4.executor": "Run",
+    "CMake Application.ex_4_1.executor": "Run",
+    "CMake Application.ex_4_10.executor": "Run",
+    "CMake Application.ex_4_11.executor": "Run",
+    "CMake Application.ex_4_12.executor": "Run",
+    "CMake Application.ex_4_2.executor": "Run",
+    "CMake Application.ex_4_3.executor": "Run",
+    "CMake Application.ex_4_4.executor": "Run",
+    "CMake Application.ex_4_5.executor": "Run",
+    "CMake Application.ex_4_6.executor": "Run",
+    "CMake Application.ex_4_7.executor": "Run",
+    "CMake Application.ex_4_8_9.executor": "Run",
+    "CMake Application.ex_5.executor": "Run",
+    "CMake Application.ex_5_1.executor": "Run",
+    "CMake Application.ex_5_2.executor": "Run",
+    "CMake Application.ex_5_3.executor": "Run",
+    "CMake Application.ex_5_8.executor": "Run",
+    "CMake Application.ex_7.executor": "Run",
+    "CMake Application.ex_8.executor": "Run",
+    "CMake Application.ex_9.executor": "Run",
+    "CMake Debug.CLionProjects.executor": "Debug",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.1_05.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CLionProjects" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="CLionProjects" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="CLionProjects" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="CLionProjects">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ec_2_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ec_2_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ec_2_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ec_6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ec_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ec_6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_1_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_1_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_1_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_1_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_1_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_1_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2 (1)" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="ex_2" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2_12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2_12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2_12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2_17" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2_17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2_17">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2_3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2_5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2_5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2_6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2_6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_2_7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_2_7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_2_7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_20" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_20">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_23" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="ex_3_23" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_3a" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_3a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_3a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_3b" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_3b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_3b">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="ex_3_6" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_7a" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_7a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_7a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_3_7b" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_3_7b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_3_7b">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="ex_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="ex_9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1_04.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="1_04.c" CONFIG_NAME="1_04.c">
+      <option name="sourceFile" value="cw_1/1_04.c" />
+      <option name="toolchainName" value="Default" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1_05.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="1_05.c" CONFIG_NAME="1_05.c">
+      <option name="sourceFile" value="cw_1/1_05.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.1_05.c" />
+      <item itemvalue="C/C++ File.1_04.c" />
+      <item itemvalue="CMake Application.CLionProjects" />
+      <item itemvalue="CMake Application.ec_2_4" />
+      <item itemvalue="CMake Application.ec_6" />
+      <item itemvalue="CMake Application.ex_1" />
+      <item itemvalue="CMake Application.ex_1_1" />
+      <item itemvalue="CMake Application.ex_1_2" />
+      <item itemvalue="CMake Application.ex_2" />
+      <item itemvalue="CMake Application.ex_2_1" />
+      <item itemvalue="CMake Application.ex_2_12" />
+      <item itemvalue="CMake Application.ex_2_17" />
+      <item itemvalue="CMake Application.ex_2_2" />
+      <item itemvalue="CMake Application.ex_2_3" />
+      <item itemvalue="CMake Application.ex_2_5" />
+      <item itemvalue="CMake Application.ex_2_6" />
+      <item itemvalue="CMake Application.ex_2_7" />
+      <item itemvalue="CMake Application.ex_3_1" />
+      <item itemvalue="CMake Application.ex_3_2" />
+      <item itemvalue="CMake Application.ex_3_20" />
+      <item itemvalue="CMake Application.ex_3_6" />
+      <item itemvalue="CMake Application.ex_3_7a" />
+      <item itemvalue="CMake Application.ex_3_7b" />
+      <item itemvalue="CMake Application.ex_4" />
+      <item itemvalue="CMake Application.ex_5" />
+      <item itemvalue="CMake Application.ex_7" />
+      <item itemvalue="CMake Application.ex_8" />
+      <item itemvalue="CMake Application.ex_9" />
+      <item itemvalue="CMake Application.ex_3_23" />
+      <item itemvalue="CMake Application.ex_3_3a" />
+      <item itemvalue="CMake Application.ex_3_3b" />
+      <item itemvalue="CMake Application.ex_3_4" />
+      <item itemvalue="CMake Application.ex_3_5" />
+      <item itemvalue="CMake Application.ex_2 (1)" />
+      <item itemvalue="CMake Debug.CLionProjects" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Debug.CLionProjects" />
+        <item itemvalue="CMake Application.ex_2 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2 (1)",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ec_6",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_12",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_11",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_10",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_6",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_7",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_3b",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_3a",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_7b",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_7a",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_2",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2_5",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_3",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2_6",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_4",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2_7",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_5",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2_1",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2_2",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Debug.CLionProjects",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2_3",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.1_04.c"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_1",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4_8_9",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_20",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_5_8",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_8",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_7",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_9",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_4",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_5",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_5_1",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_5_2",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_4",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_5_3",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2_17",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_5",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ec_2_4",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_6",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_1",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_1_1",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_1_2",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_2_12",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.1_05.c"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.CLionProjects",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_1",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_23",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.ex_3_2",
+        "cmake": "CMakeBuildProfile:Debug"
+      },
+      "second": "30b448a3-4c3e-41a4-82f3-7332529f1e5d"
+    }
+  ],
+  "modificationCount": 89
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e32dd36a-6d8a-4aad-ae50-9431fb2781b1" name="Changes" comment="" />
+      <created>1789065153774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789065153774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
