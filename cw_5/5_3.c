@@ -1,5 +1,4 @@
 #include <stdio.h>
-// this is not done, needs improvements
 int kollatz(int a, int n) {
     int a0 = a;
     int a1;
@@ -18,7 +17,6 @@ int count_till_one(int a) {
     int count = 1, b = a;
     while (b != 1) {
         b = kollatz(a, count);
-
         count ++;
     } return count;
 }
