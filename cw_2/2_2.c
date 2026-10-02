@@ -13,7 +13,8 @@ float hypotenuse(double x, double y) {
 bool iszero(double x) {
     return fabs(x) < 1e-9;
 }
-int tests() {
+
+int tests_eReLu() {
     if (!iszero(hypotenuse(0.0, 0.0))) {
         printf("the test failed 1\n");
         return 1;
@@ -32,7 +33,7 @@ int tests() {
 
 int main() {
     double x, y;
-    tests();
+    tests_eReLu();
     printf("input x and y without punctuation between them: ");
     scanf("%lf %lf", &x, &y);
     float c = hypotenuse(x, y);

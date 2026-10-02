@@ -15,6 +15,7 @@ bool iszero(double x) {
     return  fabs(x)<1e-9;
 }
 
+
 int tests() {
     if (!iszero(side(0, 0, 0, 0))) {
         printf("test failed: side(0, 0, 0, 0) != 0\n");

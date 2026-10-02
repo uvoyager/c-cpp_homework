@@ -14,6 +14,7 @@ bool iszero(double x) {
     return fabs(x) < 1e-9;
 }
 
+<<<<<<< HEAD
 int tests() {
     printf("tests\n");
     if (!iszero(softSign(0.0))) {

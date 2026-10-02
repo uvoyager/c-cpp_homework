@@ -14,6 +14,7 @@ bool iszero(double x) {
     return fabs(x) < 1e-9;
 }
 
+<<<<<<< HEAD
 int tests() {
     if (!iszero(heron(0.0, 0.0, 0.0))) {
         printf("the test failed 1\n");
