@@ -78,3 +78,13 @@ add_executable(ex_7_6 cw_7/7_6.c)
 
 add_executable(ex_7_9 hw_7/7_9.c)
 add_executable(ex_7_14 hw_7/7_14.c)
+
+add_executable(ex_8_1 cw_8/8_1.c)
+add_executable(ex_8_2 cw_8/8_2.c)
+add_executable(ex_8_3 cw_8/8_3.c)
+add_executable(ex_8_4 cw_8/8_4.c)
+add_executable(ex_8_5 cw_8/8_5.c)
+add_executable(ex_8_6 cw_8/8_6.c)
+add_executable(ex_8_7 cw_8/8_7.c)
+
+add_executable(ex_8_23 hw_8/8_23.c)
