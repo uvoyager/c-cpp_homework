@@ -96,3 +96,12 @@ add_executable(ex_9_4 cw_9/9_4.c)
 
 add_executable(ex_9_9g hw_9/9_9g.c)
 add_executable(ex_9_9f hw_9/9_9f.c)
+
+add_subdirectory(cw_10/chess)
+add_subdirectory(cw_10/date)
+add_subdirectory(cw_10/mountains)
+add_subdirectory(cw_10/rational)
+add_subdirectory(cw_10/rectangle)
+
+add_subdirectory(hw_10/3d_par)
+add_subdirectory(hw_10/exams)
