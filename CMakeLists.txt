@@ -105,3 +105,11 @@ add_subdirectory(cw_10/rectangle)
 
 add_subdirectory(hw_10/3d_par)
 add_subdirectory(hw_10/exams)
+
+add_executable(ex_11_1 cw_11/11_1/11_1.c)
+add_executable(ex_11_2 cw_11/11_2/11_2.c)
+add_executable(ex_11_3 cw_11/11_3/11_3.c)
+add_executable(ex_11_4 cw_11/11_4/11_4.c)
+
+add_executable(ex_11_9 hw_11/11_9/11_9.c)
+add_executable(ex_11_12 hw_11/11_12/11_12.c)
