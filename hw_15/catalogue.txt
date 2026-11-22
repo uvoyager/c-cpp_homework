@@ -1,0 +1,8 @@
+Mistborn: The Final Empire,Brandon Sanderson,541,2006
+The Way of Kings,Brandon Sanderson,1007,2010
+Dune,Frank Herbert,688,1965
+The Left Hand of Darkness,Ursula K. Le Guin,304,1969
+Project Hail Mary,Andy Weir,476,2021
+1984,George Orwell,328,1949
+Animal Farm,George Orwell,112,1945
+The Hobbit,J.R.R. Tolkien,310,1937
