@@ -1,0 +1,6 @@
+set(CMAKE_CXX_STANDARD 17)
+cmake_minimum_required(VERSION 4.3)
+add_executable(task1 19_1.cpp)
+add_executable(task2 19_2.cpp)
+add_executable(task3 19_3.cpp)
+add_executable(task4 19_4.cpp)
