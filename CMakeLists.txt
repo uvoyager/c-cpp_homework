@@ -121,3 +121,11 @@ add_executable(ex_12_4 cw_12/task04.cpp)
 add_executable(ex_12_5 cw_12/task05.cpp)
 
 add_executable(ex_12_21 hw_12/task21.cpp)
+
+add_executable(ex_14_1 cw_14/task01/task01.cpp)
+add_executable(ex_14_2 cw_14/task02_dir/task02.cpp)
+add_executable(ex_14_3 cw_14/task03/task03.cpp)
+add_executable(ex_14_4 cw_14/task04.cpp)
+add_executable(ex_14_5 cw_14/task05.cpp)
+
+add_executable(ex_14_18 hw_14/task18.cpp)
